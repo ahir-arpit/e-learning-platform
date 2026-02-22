@@ -2,7 +2,7 @@
 # Online Learning Platform
 
 Online Learning Platform using MERN Stack,
-Please visit [here](https://code2tutorial.com/tutorial/55a23a94-6cb7-4c48-92c1-f96db207f791/index.md) for a better understanding of the project.
+
 ## Objective:
 
 Develop a comprehensive online learning platform with three user types (Student, Teacher, Admin), featuring course creation, approval process, and live video conferencing.
@@ -90,7 +90,7 @@ Follow the steps below to run the project on your local machine.
 ### 📦 Clone the Repository
 
 ```bash
-git clone https://github.com/Pika003/e-Learning-Platform.git
+git clone https://github.com/ahir-arpit/e-learning-platform.git
 cd e-Learning-Platform
   - Fill the env file with your credentials
 npm install
